@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lora', serif;
+    background-color: #f4f4f4; 
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.navbar {
+    list-style-type: none;
+    display: flex;
+}
+
+.navbar li {
+    margin-right: 20px;
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+.navbar li a:hover {
+    color: #007bff;
+}
+
+/* Container styles */
+.container {
+    max-width: 600px;
+    margin: 50px 100px;
+    padding: 0 20px;
+    background-color: #fff; 
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); 
+}
+
+.contentBox {
+    padding: 40px;
+}
+
+.contentBox h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.contentBox span {
+    color: #007bff;
+}
+
+.contentBox p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.contentBox a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.contentBox a:hover {
+    background-color: #0056b3;
+}
