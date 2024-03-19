@@ -7,7 +7,7 @@ This is me.I share about my skills, educational background, hobbies and my favou
 ******
 
 ## SCREENSHOTS
-![Screenshot from 2024-03-19 06-28-47](https://github.com/kahenya-anita/Variable-Vikings/assets/161455450/6718f812-6cd5-4527-b790-f8d7588e498d)
+![Screenshot from 2024-03-19 07-10-21](https://github.com/noahchirchir/portfolio/assets/161455450/45a8767c-e782-41be-84e4-78b18948f1fe)
 
 
 
@@ -36,7 +36,7 @@ This is me.I share about my skills, educational background, hobbies and my favou
 > Run using live server
 *****
 ## Live Link
-Or you can access the web application directly via this [https://vikingsvariable.netlify.app/](https://vikingsvariable.netlify.app/)
+Or you can access the web application directly via this [https://noahchirchir.netlify.app](https://noahchirchir.netlify.app/)
 *****
 ## Dependencies
 
