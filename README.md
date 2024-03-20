@@ -7,7 +7,7 @@ This is me.I share about my skills, educational background, hobbies and my favou
 ******
 
 ## SCREENSHOTS
-![Screenshot from 2024-03-19 07-10-21](https://github.com/noahchirchir/portfolio/assets/161455450/45a8767c-e782-41be-84e4-78b18948f1fe)
+![Screenshot from 2024-03-20 06-42-39](https://github.com/noahchirchir/portfolio/assets/161455450/3ee2bff6-d8d5-4ad6-87de-df37f33460f3)
 
 
 
